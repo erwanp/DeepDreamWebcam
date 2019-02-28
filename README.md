@@ -29,6 +29,8 @@ python rem.py
 
 # References
 
+A Deep Dream implementation using Pytorch and a webcam as an input. Expect processing times of about ~3s between two frames. 
+
 Assembled from the works of:
  
 - [DeepDreamVisionQuest](https://github.com/deepdream-community/DeepDreamVisionQuest) for the nice webcam / Motion detector 
